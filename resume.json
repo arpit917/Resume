@@ -1,12 +1,12 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Arpit Yadav",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
+		"email": "2019kucp1118@iiitkota.ac.in",
+		"phone": "6397314907",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"summary": "I am pursuing my 3rd year in C.S.E. branch from IIIT Kota, I like doing meditation. I always want to exploree new things.",
 		"location": {
 			"address": "---",
 			"postalCode": "---",
