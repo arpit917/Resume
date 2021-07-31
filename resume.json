@@ -8,11 +8,11 @@
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "I am pursuing my 3rd year in C.S.E. branch from IIIT Kota, I like doing meditation. I always want to exploree new things.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Teachers Colony, Sirsaganj Road, Karhal Mainpuri",
+			"postalCode": "205264",
+			"city": "Mainpuri",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -58,9 +58,9 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"startDate": "2019-08-05",
+		"endDate": "2023",
+		"gpa": "7.87",
 		"courses": [
 			"Computer Science & Engineering"
 		]
