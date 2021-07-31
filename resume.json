@@ -15,20 +15,16 @@
 			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"network": "Linkedin",
+				"username": "arpit-yadav-8045101b5",
+				"url": "https://www.linkedin.com/in/arpit-yadav-8045101b5"
 			},
 			{
 				"network": "Github",
 				"username": "handle",
 				"url": "https://www.github.com/<handle>/"
 			},
-			{
-				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
-			},
+			
 			{
 				"network": "Instagram",
 				"username": "handle",
